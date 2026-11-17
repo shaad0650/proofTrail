@@ -35,3 +35,10 @@ The execution reference is in
 `ProofTrail_Implementation_Plan_v1.md`. It is the phase-by-phase implementation
 baseline and includes gate criteria, dependencies, tests, security requirements,
 pilot milestones, and definition-of-done checks.
+
+## Start here
+
+Discovery materials are in [`discovery/`](discovery/README.md). Use the
+templates to recruit and evidence the problem, but do not commit participant
+details or customer documents. The implementation plan now numbers only
+technical coding phases; discovery is a pre-coding release gate.

@@ -2,6 +2,10 @@
 /ProofTrail_Product_Requirements_and_Technical_Design_v1.docx
 ~$ProofTrail_Product_Requirements_and_Technical_Design_v1.docx
 ProofTrail_Implementation_Plan_v1.md
+# Discovery data — never commit participant or customer information
+/discovery/raw/
+/discovery/consented-data/
+/discovery/exports/
 
 # Local configuration and secrets
 .env
