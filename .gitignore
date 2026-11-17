@@ -1,6 +1,7 @@
 # Product requirements and technical design (local document)
 /ProofTrail_Product_Requirements_and_Technical_Design_v1.docx
 ~$ProofTrail_Product_Requirements_and_Technical_Design_v1.docx
+ProofTrail_Implementation_Plan_v1.md
 
 # Local configuration and secrets
 .env

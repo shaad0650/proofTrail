@@ -30,3 +30,8 @@ interest, or automate buyer portals.
 The detailed requirements and technical design are in
 `ProofTrail_Product_Requirements_and_Technical_Design_v1.docx`. That document is
 intentionally excluded from Git.
+
+The execution reference is in
+`ProofTrail_Implementation_Plan_v1.md`. It is the phase-by-phase implementation
+baseline and includes gate criteria, dependencies, tests, security requirements,
+pilot milestones, and definition-of-done checks.
