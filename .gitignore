@@ -1,0 +1,25 @@
+# Product requirements and technical design (local document)
+/ProofTrail_Product_Requirements_and_Technical_Design_v1.docx
+~$ProofTrail_Product_Requirements_and_Technical_Design_v1.docx
+
+# Local configuration and secrets
+.env
+.env.*
+!.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# JavaScript
+node_modules/
+
+# Build output
+/build/
+/dist/
+
+# Operating system files
+.DS_Store
+Thumbs.db
