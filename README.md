@@ -11,7 +11,7 @@ exceptions, and export an invoice's supporting documents and event history.
 - Create invoices and link purchase-order, delivery, and other supporting files.
 - Check configured requirements and flag missing or inconsistent information.
 - Record submission, acknowledgement, acceptance, rejection, and follow-up events.
-- Export selected original files with a chronological evidence manifest.
+- Export selected original files with a chronodo logical evidence manifest.
 
 Checks are limited to configured completeness and consistency rules; they do not
 certify legal or tax compliance.
